@@ -32,5 +32,16 @@
   <img align="center" alt="Rafael-PostgreSQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
+## Contact :iphone:
+<p align="center">
+    <a href = "mailto:rafaelbrizola05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+</p>
+
+## Total Visits :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RafaBRZL/count.svg" />
+ </p>
+
 
 
