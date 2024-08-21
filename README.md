@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    - 🔭 Estou no sétimo semestre de Ciência da Computação e não estou trabalhando na área no momento.
+    - 🔭 Sou formado em Ciência da Computação e não estou trabalhando na área no momento.
         
   </p>
   
